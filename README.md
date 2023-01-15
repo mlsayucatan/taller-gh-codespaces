@@ -2,18 +2,22 @@
 
 ## Contenido
 
+En la carpeta `Notebooks` encontrarás el cuarderno de Jupyter con el que trabajamos durante el taller. También encontrarás un segundo cuaderno con ejercicios para practicar.
 
+Y en este archivo `README` hemos recopiado algunos recursos que te pueden ser de utilidad para seguir aprendiendo sobre Python y GitHub Codespaces.
+
+¡Feliz aprendizaje! :rocket:
 
 ## Recursos
 
-### GitHub Codespaces
+### GitHub Codespaces :octocat:
 
 > Un codespace es un ambiente de desarrollo que se hospeda en la nube, es decir, se ejecuta en una máquina virtual hospedada por GitHub. También puedes elegir el tipo de máquina que deseas usar, y personalizar la configuración de tu proyecto.
 
 - [Documentación oficial](https://docs.github.com/es/codespaces)
 - [Lista de reproducción](https://www.youtube.com/watch?v=ozuDPmcC1io&list=PLmsFUfdnGr3wTl-NCblzcrEv2lFSX975-)
 
-### Python
+### Python :snake:
 
 #### Libros 
 

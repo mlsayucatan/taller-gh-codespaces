@@ -11,6 +11,7 @@
         "extensions": [
           "ms-toolsai.jupyter",
           "ms-python.python",
+          "ms-python.black-formatter",
           "bierner.markdown-preview-github-styles"
         ]
       }

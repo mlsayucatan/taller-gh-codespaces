@@ -2,9 +2,11 @@
 
 ## Contenido
 
-En la carpeta `Notebooks` encontrarás el cuarderno de Jupyter con el que trabajamos durante el taller. También encontrarás un segundo cuaderno con ejercicios para practicar.
+- En la carpeta `Notebooks` encontrarás el cuarderno de Jupyter con el que trabajamos durante el taller. También encontrarás un segundo cuaderno con ejercicios para practicar.
 
-Y en este archivo `README` hemos recopiado algunos recursos que te pueden ser de utilidad para seguir aprendiendo sobre Python y GitHub Codespaces.
+- El archivo PowerPoint `slides-codespaces` contiene información de GitHub Codespaces.
+
+- Y en este archivo `README`, hemos recopiado algunos recursos que te pueden ser de utilidad para seguir aprendiendo sobre Python y GitHub Codespaces.
 
 ¡Feliz aprendizaje! :rocket:
 

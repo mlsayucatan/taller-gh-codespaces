@@ -36,3 +36,10 @@
 - [Cómputo científico con Python](https://www.freecodecamp.org/espanol/learn/scientific-computing-with-python/) - *FreeCodeCamp*.
 - [Análisi de datos con Python](https://www.freecodecamp.org/espanol/learn/data-analysis-with-python/) - *FreeCodeCamp*.
 - [Aprendizaje Automático](https://www.freecodecamp.org/espanol/learn/machine-learning-with-python/) - *FreeCodeCamp*.
+
+### Documentación
+
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+
